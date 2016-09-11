@@ -17,6 +17,7 @@ public class JerseyDemo {
 
 
 	public static void main(String[] args) throws IOException {
+		//客户端上传哦
 		//实例化一个jersey
 		Client client = new Client();
 		//另一台服务器的路径

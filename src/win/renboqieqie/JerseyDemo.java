@@ -9,7 +9,7 @@ import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.WebResource;
 
 /**
- * 发送图片到另外一台tomcat服务器
+ * 发送图片到另外一台tomcat服务器得到
  * @author Administrator
  *
  */
